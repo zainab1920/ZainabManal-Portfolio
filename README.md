@@ -1,52 +1,57 @@
 # Zainab Manal - Data Analytics Portfolio
 
-I'm a software engineering graduate from Ontario Tech University focused on data analytics, with a growing specialization in data science and machine learning. I use Python, SQL, and Tableau to uncover patterns, craft clear data stories, and support strategic decision-making. 
+Hi, I'm Zainab. I'm a Data Analyst with a background in Software Engineering, and I love messy problems. That's what initially drew me to software engineering and later to data analytics. I enjoy digging into datasets, asking questions, and following patterns to understand what might explain them and see where they lead. My projects here show that exact process: from cleaning and validating the data to exploring it, visualizing what I find, and explaining how I reached my conclusions.
 
-I love messy problems. That's what initially drew me to software engineering and later to data analytics: ambiguous environments where clarity must be uncovered and built up. I enjoy turning complex problems into clear insights and actionable outcomes and communicating them in ways people can easily understand and use, while continuing to develop my skills in statistical modeling and machine learning.
+I mainly work with SQL, Python (pandas), Tableau, Power BI, and Excel.
 
 📍 Toronto, Canada
-📊 Data Analytics | Public Sector | Transit & Operations
+📊 Interested in public sector, transit, operations, and other data-rich problems
+💼 LinkedIn: [Zainab Manal](https://www.linkedin.com/in/zainab-manal/)
 📫 Open to Data Analyst opportunities
 
-## Skills
-### Core Skills
-- Python (pandas, NumPy)
-- SQL
-- Exploratory Data Analysis (EDA)
-- Data Visualization & Storytelling (Tableau, Power BI)
-- Descriptive Statistics
-
-### Advanced Working Knowledge
-- Feature Engineering (Foundational)
-- Data Validation & Quality Checks
-- Segmentation Analysis
-- KPI & Metric Design
-
-### Developing & Expanding
-- ETL Pipelines
-- PostgreSQL & Data Warehousing Concepts
-- Cloud Platforms (GCP, Azure, AWS)
-- Trend Analysis & Forecasting Concepts
-- Agile Analytics & Stakeholder Collaboration
-
-
 ## Featured Projects
-**Toronto 311 Service Request Analysis - In Progress**
-This project analyzes over 300,000 Toronto 311 service request records to uncover demand patterns, response inefficiencies, and neighborhood-level service trends. Using SQL and Python, the data is cleaned, aggregated, and explored to identify operational bottlenecks and seasonal demand shifts. The analysis highlights opportunities to improve service delivery and resource allocation. Ongoing work focuses on deeper trend analysis and time-based insights to support data-informed municipal planning.
+**Toronto 311 Service Request Analysis**
+Python · pandas · NumPy · Matplotlib · Jupyter Notebook
 
-**Sales & Customer Insights Dashboard - In Progess**
-Interactive Tableau dashboard for monitoring sales performance and customer behavior trends. Development focuses on KPI tracking, performance visibility, and improving stakeholder reporting efficiency. 
+What does a year of nearly 500,000 requests to Toronto's 311 service tell us about when residents need city services and what they're asking for?
 
-**TTC Service Reliability & Delay Intelligence - Planned**
-Transit analytics project examining service reliability, delay patterns, and rider impact to support data-informed transit planning and operational improvement.
+I cleaned and explored Toronto's 2025 service request data to examine how request volume changed across the year, which issues appeared most often, and how patterns differed by season, weekday, status, and location. The repository includes the full analysis, from cleaning decisions and validation checks to the questions I explored and what I found.
 
-## Education
-**Ontario Tech University (2017-2022)**, Bachelor of Engineering (Honors), Engineering and Applied Science
-- Ontario Tech Entrance Scholarship
-- Dean's List (2021)
+→ [View Project](https://github.com/zainab1920/toronto-311-service-request-analysis/tree/main)
+
+## Skills
+### Analysis
+* SQL
+* Python (pandas, NumPy)
+* Exploratory Data Analysis
+* Data Cleaning & Validation
+* Descriptive Statistics
+* Trend Analysis
+* Customer Segmentation & RFM Analysis
+
+### Visualization & BI
+* Tableau
+* Power BI
+* Matplotlib
+* Excel
+
+### Tools & Platforms
+* PostgreSQL
+* Jupyter Notebook
+* Git & GitHub
+* GCP
+* Docker
+
+## Professional Development
+Databricks for Data Analysts — LinkedIn Learning
+In Progress · 2026
 
 ## About Me
-- I enjoy reading and though I lean more towards the fantasy genre, I also really enjoy contemporary and historical fiction.
-- I developed a passion for cooking during the pandemic and over the past few years, I've made dozens of dishes from multiple cultures and cuisines. I love experimenting with different flavours and styles of cooking.
-- I've been writing short stories since elementary school. I enjoy the creative process and particularly exploring different writing styles and techniques to continually challenge myself.
+When I'm not working with data, you'll usually find me doing something creative (or looking for my next book to read).
+
+Reading: Fantasy is my favourite genre, but I also read a lot of contemporary and historical fiction. I'm always on the hunt for a good story, especially one with interesting characters to pick apart.
+
+Cooking: I started cooking more seriously during the pandemic and have since made dishes from a range of cultures and cuisines. I've experimented with recipes from around the world, including Indian, Thai, Japanese, and Caribbean cuisines. I particularly enjoy experimenting with different flavour profiles and trying out new and interesting recipes.
+
+Writing: I've been writing short stories since elementary school. I typically stick to fantasy and action/adventure, but I've begun branching out into horror, contemporary fiction, and occasionally romance. I like experimenting with different genres and writing styles to see how changing the genre can radically shift the course of an established character or plot.
   
