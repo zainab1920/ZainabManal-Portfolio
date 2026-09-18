@@ -5,9 +5,13 @@ Hi, I'm Zainab. I'm a Data Analyst with a background in Software Engineering, an
 I mainly work with SQL, Python (pandas), Tableau, Power BI, and Excel.
 
 📍 Toronto, Canada
+
 📊 Interested in public sector, transit, operations, and other data-rich problems
+
 💼 LinkedIn: [Zainab Manal](https://www.linkedin.com/in/zainab-manal/)
+
 📫 Open to Data Analyst opportunities
+
 
 ## Featured Projects
 **Toronto 311 Service Request Analysis**
